@@ -7,7 +7,9 @@
   </head>
   <body>
     <h1>TEXTO PRUEBA GIT</h1>
-     <p>Probando Github y SourceTree. Tal parece que las herramientas s� est�n sincronizadas
+     <p>Probando Github y SourceTree. Tal parece que las herramientas sí están sincronizadas
+     </p>
+     <p>probando ahora la función pull, para pasar de una versión remota a una local
      </p>
   </body>
 </html>
